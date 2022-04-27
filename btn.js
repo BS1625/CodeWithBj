@@ -1,3 +1,4 @@
+console.log("Hello world");
 var usercode = document.getElementById("code").value;
 
 function show()
